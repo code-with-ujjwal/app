@@ -12,7 +12,7 @@ st.set_page_config(page_title='Todo App By Palasha',page_icon=':pencil:',layout=
 HTML_BANNER = """
     <div style="background-color:#464e5f;padding:10px;border-radius:10px">
     <h1 style="color:white;text-align:center;">ToDo App</h1>
-    <p style="color:white;text-align:center;">Made with ❤️ by Palasha Pawan & Preeti Sharma</p>
+    <p style="color:white;text-align:center;">Made with ❤️ by Palasha Pawan, Ujjwal Tiwari & Preeti Sharma</p>
     </div>
     """
 
